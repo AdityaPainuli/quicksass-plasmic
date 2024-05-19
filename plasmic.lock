@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "projectId": "dxYrx5uQmGn6tBD3XVsY7V",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "XsFgrn3kpJ7z",
+          "checksum": "3a5102fb10dbcc91ff90208438fa43f1"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "ZJkHytbGIKGt",
+          "checksum": "62fa3b05fdd3c45ed2b07e6b25f498bf"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "ZJkHytbGIKGt",
+          "checksum": "62fa3b05fdd3c45ed2b07e6b25f498bf"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Xv3BLH31dEm6",
+          "checksum": "307ba01d7b4f9a187ba0aa3c5293e7f5"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Xv3BLH31dEm6",
+          "checksum": "307ba01d7b4f9a187ba0aa3c5293e7f5"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "8KInyWSLUg2G",
+          "checksum": "3b1d117835f9630e7cb818d26e7b36a0"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "8KInyWSLUg2G",
+          "checksum": "3b1d117835f9630e7cb818d26e7b36a0"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "egSkIv89EocE",
+          "checksum": "fb53c5eb35ea557de10d6d4b2e48885e"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "egSkIv89EocE",
+          "checksum": "fb53c5eb35ea557de10d6d4b2e48885e"
+        },
+        {
+          "type": "icon",
+          "assetId": "asyPlYJFlDD6",
+          "checksum": "9a1d9f1220da9d782318d37bc832122c"
+        },
+        {
+          "type": "icon",
+          "assetId": "rTf5bFk2XosL",
+          "checksum": "dafa1a510a7982753acd619e40bfe56e"
+        },
+        {
+          "type": "icon",
+          "assetId": "AG68qrrWFINq",
+          "checksum": "6a71ef6fe51ceda75d948e7f415f3c65"
+        },
+        {
+          "assetId": "dxYrx5uQmGn6tBD3XVsY7V",
+          "type": "projectCss",
+          "checksum": "e4257ddeeac9712da6fdb4d391e501ac"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.330"
+}
